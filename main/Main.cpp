@@ -1,3 +1,4 @@
+//Martin Alonso Arancibia Alzamora | 22.273.853-9 | ICCI
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -8,6 +9,8 @@
 #include "../logica/HospitalListaPrincipal.h"
 
 using namespace std;
+
+
 
 void cargarPacientesDesdeArchivo(string nombreArchivo, Cola& colaEspera) {
     ifstream archivo(nombreArchivo);
