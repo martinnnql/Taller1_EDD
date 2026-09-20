@@ -1,7 +1,8 @@
 # Taller 1: Sistema de Gestión - Hospital Marmaja
 
 <p align="center">
-  <img src="https://tenor.com/es-US/view/pokemon-center-pokecenter-health-centre-gif-4469805827013639946" alt="Centro Pokemon Marmaja" width="400">
+  <img src="<img width="220" height="168" alt="image" src="https://github.com/user-attachments/assets/95605401-011a-451c-ac36-8551e51754e0" />
+" alt="Centro Pokemon Marmaja" width="400">
 </p>
 
 Este proyecto es una simulación de un sistema de gestión hospitalaria desarrollado en C++ para el curso de Estructuras de Datos. Implementa conceptos de Programación Orientada a Objetos (POO), manejo de memoria dinámica, y estructuras de datos manuales (Pila, Cola y Listas Enlazadas).
